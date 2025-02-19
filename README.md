@@ -1,5 +1,8 @@
 # SPART - Special Purpose Asynchronous Receiver/Transmitter  
 
+[See SPART-document.pdf for details](SPART-document.pdf)
+
+
 ## Overview  
 Implementation of a **Special Purpose Asynchronous Receiver/Transmitter (SPART)** for serial I/O communication between a processor and lab workstations. Supports character input via keyboard and output to the screen using terminal applications like **PuTTY** or **HyperTerminal**.  
 
